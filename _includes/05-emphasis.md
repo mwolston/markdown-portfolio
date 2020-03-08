@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **nice**
+  1. to **non-human** animals
+  2. to **human** animals
+2. _detail oriented_
